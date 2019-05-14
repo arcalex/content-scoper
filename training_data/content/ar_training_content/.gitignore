@@ -1,0 +1,4 @@
+# Ignore all data files, do not back up to GitHub
+*
+
+!.gitignore
